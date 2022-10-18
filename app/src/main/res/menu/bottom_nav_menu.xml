@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Production"
+        android:icon="@drawable/ic_production"
+        android:title="Production" />
+
+    <item
+        android:id="@+id/Plot"
+        android:title="Plot"
+        android:icon="@drawable/ic_plot"/>
+
+    <item
+        android:id="@+id/Character"
+        android:title="Character"
+        android:icon="@drawable/ic_char_w"/>
+
+</menu>

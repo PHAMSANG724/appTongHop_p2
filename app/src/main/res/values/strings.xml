@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AppTongHop</string>
+    <string name="hello">Hello</string>
+    <string name="PhamSang">Pham Sang</string>
+    <string name="type_keywords">Type keywords</string>
+    <string name="Profile">Profile</string>
+    <string name="yourList">Your list</string>
+    <string name="welcome_back">Welcome back, Sang!</string>
+    <string name="home">Home</string>
+    <string name="description">僕らの手には何もないけど</string>
+    <string name="full_name">Full name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone number</string>
+    <string name="facebook">Facebook</string>
+    <string name="update">Update</string>
+    <string name="log_out">Log out</string>
+    <string name="your_email">phamsang141200@gmail.com</string>
+    <string name="setting">Setting</string>
+    <string name="plot">Plot</string>
+    <string name="image">Image</string>
+    <string name="movie">Movie</string>
+    <string name="collection">Collection</string>
+    <string name="subtitle">Subtitle</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
